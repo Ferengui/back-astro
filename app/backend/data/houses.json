@@ -1,0 +1,98 @@
+[
+  {
+    "id": "house-1",
+    "number": 1,
+    "life_area": "Identidade e Autoimagem",
+    "natural_sign_id": "sign-aries",
+    "ruling_planet_id": "planet-mars",
+    "description": "Como você se apresenta ao mundo, sua personalidade exterior e aparência física."
+  },
+  {
+    "id": "house-2",
+    "number": 2,
+    "life_area": "Recursos e Valores",
+    "natural_sign_id": "sign-taurus",
+    "ruling_planet_id": "planet-venus",
+    "description": "Finanças pessoais, posses materiais, valores e autovalorização."
+  },
+  {
+    "id": "house-3",
+    "number": 3,
+    "life_area": "Comunicação e Aprendizado",
+    "natural_sign_id": "sign-gemini",
+    "ruling_planet_id": "planet-mercury",
+    "description": "Pensamento, comunicação, irmãos, vizinhança e aprendizado cotidiano."
+  },
+  {
+    "id": "house-4",
+    "number": 4,
+    "life_area": "Lar e Família",
+    "natural_sign_id": "sign-cancer",
+    "ruling_planet_id": "planet-moon",
+    "description": "Raízes, família, lar, ancestralidade e base emocional."
+  },
+  {
+    "id": "house-5",
+    "number": 5,
+    "life_area": "Criatividade e Romance",
+    "natural_sign_id": "sign-leo",
+    "ruling_planet_id": "planet-sun",
+    "description": "Autoexpressão, criatividade, romance, filhos e prazer."
+  },
+  {
+    "id": "house-6",
+    "number": 6,
+    "life_area": "Trabalho e Saúde",
+    "natural_sign_id": "sign-virgo",
+    "ruling_planet_id": "planet-mercury",
+    "description": "Rotina diária, trabalho, saúde, hábitos e serviço."
+  },
+  {
+    "id": "house-7",
+    "number": 7,
+    "life_area": "Relacionamentos e Parcerias",
+    "natural_sign_id": "sign-libra",
+    "ruling_planet_id": "planet-venus",
+    "description": "Parcerias, casamento, contratos e relacionamentos importantes."
+  },
+  {
+    "id": "house-8",
+    "number": 8,
+    "life_area": "Transformação e Poder",
+    "natural_sign_id": "sign-scorpio",
+    "ruling_planet_id": "planet-pluto",
+    "description": "Transformação, morte e renascimento, intimidade, recursos compartilhados."
+  },
+  {
+    "id": "house-9",
+    "number": 9,
+    "life_area": "Filosofia e Expansão",
+    "natural_sign_id": "sign-sagittarius",
+    "ruling_planet_id": "planet-jupiter",
+    "description": "Filosofia, ensino superior, viagens longas, espiritualidade e expansão mental."
+  },
+  {
+    "id": "house-10",
+    "number": 10,
+    "life_area": "Carreira e Status",
+    "natural_sign_id": "sign-capricorn",
+    "ruling_planet_id": "planet-saturn",
+    "description": "Carreira, reputação pública, ambição e realizações sociais."
+  },
+  {
+    "id": "house-11",
+    "number": 11,
+    "life_area": "Amizades e Ideais",
+    "natural_sign_id": "sign-aquarius",
+    "ruling_planet_id": "planet-uranus",
+    "description": "Amizades, grupos, ideais coletivos, inovação e comunidade."
+  },
+  {
+    "id": "house-12",
+    "number": 12,
+    "life_area": "Inconsciente e Espiritualidade",
+    "natural_sign_id": "sign-pisces",
+    "ruling_planet_id": "planet-neptune",
+    "description": "Inconsciente, espiritualidade, isolamento, karma e transcendência."
+  }
+]

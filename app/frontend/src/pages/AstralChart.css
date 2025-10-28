@@ -1,0 +1,199 @@
+.chart-content {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.empty-chart {
+  text-align: center;
+  padding: 4rem 2rem;
+  max-width: 600px;
+  margin: 3rem auto;
+}
+
+.empty-icon {
+  font-size: 5rem;
+  margin-bottom: 1.5rem;
+}
+
+.empty-chart h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.empty-chart p {
+  font-size: 1.05rem;
+  margin-bottom: 2rem;
+  line-height: 1.7;
+}
+
+.empty-chart .note {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: rgba(139, 92, 246, 0.1);
+  border-radius: 12px;
+  color: #a78bfa;
+}
+
+/* Energy Section */
+.energy-section {
+  margin: 3rem 0;
+}
+
+.energy-section h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.energy-grid {
+  margin-bottom: 3rem;
+}
+
+.energy-card h3 {
+  font-size: 1.25rem;
+  color: #c4b5fd;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.energy-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.energy-item {
+  display: grid;
+  grid-template-columns: 80px 1fr 60px;
+  align-items: center;
+  gap: 1rem;
+}
+
+.energy-item span:first-child {
+  color: #a78bfa;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.energy-item span:last-child {
+  text-align: right;
+  color: #8b5cf6;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.energy-bar {
+  height: 12px;
+  background: rgba(139, 92, 246, 0.1);
+  border-radius: 50px;
+  overflow: hidden;
+  position: relative;
+}
+
+.energy-fill {
+  height: 100%;
+  border-radius: 50px;
+  transition: width 0.6s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.energy-fill::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+  animation: shimmer 2s infinite;
+}
+
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+.energy-fill.fire {
+  background: linear-gradient(90deg, #ef4444 0%, #f97316 100%);
+}
+
+.energy-fill.earth {
+  background: linear-gradient(90deg, #84cc16 0%, #22c55e 100%);
+}
+
+.energy-fill.air {
+  background: linear-gradient(90deg, #06b6d4 0%, #3b82f6 100%);
+}
+
+.energy-fill.water {
+  background: linear-gradient(90deg, #3b82f6 0%, #6366f1 100%);
+}
+
+.energy-fill.yang {
+  background: linear-gradient(90deg, #f59e0b 0%, #fbbf24 100%);
+}
+
+.energy-fill.yin {
+  background: linear-gradient(90deg, #6366f1 0%, #8b5cf6 100%);
+}
+
+.energy-fill.cardinal {
+  background: linear-gradient(90deg, #ec4899 0%, #f43f5e 100%);
+}
+
+.energy-fill.fixed {
+  background: linear-gradient(90deg, #8b5cf6 0%, #a855f7 100%);
+}
+
+.energy-fill.mutable {
+  background: linear-gradient(90deg, #06b6d4 0%, #0ea5e9 100%);
+}
+
+/* Positions Section */
+.positions-section {
+  margin-top: 3rem;
+}
+
+.positions-section h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.positions-grid {
+  margin-top: 2rem;
+}
+
+.position-card h3 {
+  font-size: 1.5rem;
+  color: #c4b5fd;
+  margin-bottom: 1rem;
+}
+
+.position-info {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.position-badge {
+  padding: 0.375rem 0.875rem;
+  background: rgba(139, 92, 246, 0.2);
+  color: #c4b5fd;
+  border: 1px solid rgba(139, 92, 246, 0.3);
+  border-radius: 50px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.position-card p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #a78bfa;
+}
+
+@media (max-width: 768px) {
+  .energy-item {
+    grid-template-columns: 70px 1fr 50px;
+  }
+}

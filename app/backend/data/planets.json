@@ -1,0 +1,122 @@
+[
+  {
+    "id": "planet-sun",
+    "name": "Sol",
+    "symbol": "☉",
+    "element_id": "elem-fire",
+    "quality_id": "qual-fixed",
+    "polarity_id": "pol-yang",
+    "luminary": true,
+    "description": "Fonte de vitalidade, essência, propósito e expressão pessoal. Representa o ego e a identidade.",
+    "image_url": "https://images.unsplash.com/photo-1614642264762-d0a3b8bf3700?w=400",
+    "distance_from_sun": 0
+  },
+  {
+    "id": "planet-moon",
+    "name": "Lua",
+    "symbol": "☽",
+    "element_id": "elem-water",
+    "quality_id": "qual-cardinal",
+    "polarity_id": "pol-yin",
+    "luminary": true,
+    "description": "Emoções, instintos, necessidades emocionais e nutrição. Representa o mundo interior e a mãe.",
+    "image_url": "https://images.unsplash.com/photo-1509773896068-7fd415d91e2e?w=400",
+    "distance_from_sun": 0.00257
+  },
+  {
+    "id": "planet-mercury",
+    "name": "Mercúrio",
+    "symbol": "☿",
+    "element_id": "elem-air",
+    "quality_id": "qual-mutable",
+    "polarity_id": "pol-yang",
+    "luminary": false,
+    "description": "Comunicação, pensamento, lógica e aprendizado. Representa a mente e as trocas.",
+    "image_url": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=400",
+    "distance_from_sun": 0.39
+  },
+  {
+    "id": "planet-venus",
+    "name": "Vênus",
+    "symbol": "♀",
+    "element_id": "elem-earth",
+    "quality_id": "qual-fixed",
+    "polarity_id": "pol-yin",
+    "luminary": false,
+    "description": "Amor, beleza, prazer, valores e relacionamentos. Representa afeto e harmonia.",
+    "image_url": "https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?w=400",
+    "distance_from_sun": 0.72
+  },
+  {
+    "id": "planet-mars",
+    "name": "Marte",
+    "symbol": "♂",
+    "element_id": "elem-fire",
+    "quality_id": "qual-cardinal",
+    "polarity_id": "pol-yang",
+    "luminary": false,
+    "description": "Ação, coragem, desejo, energia física e assertividade. Representa a força de vontade.",
+    "image_url": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400",
+    "distance_from_sun": 1.52
+  },
+  {
+    "id": "planet-jupiter",
+    "name": "Júpiter",
+    "symbol": "♃",
+    "element_id": "elem-fire",
+    "quality_id": "qual-mutable",
+    "polarity_id": "pol-yang",
+    "luminary": false,
+    "description": "Expansão, otimismo, sabedoria, abundância e crescimento. Representa a sorte e a filosofia.",
+    "image_url": "https://images.unsplash.com/photo-1614732118584-fa8b5eaa3bf0?w=400",
+    "distance_from_sun": 5.2
+  },
+  {
+    "id": "planet-saturn",
+    "name": "Saturno",
+    "symbol": "♄",
+    "element_id": "elem-earth",
+    "quality_id": "qual-cardinal",
+    "polarity_id": "pol-yin",
+    "luminary": false,
+    "description": "Disciplina, responsabilidade, estrutura, limites e maturidade. Representa lições e tempo.",
+    "image_url": "https://images.unsplash.com/photo-1614732484003-ef9881555dc3?w=400",
+    "distance_from_sun": 9.54
+  },
+  {
+    "id": "planet-uranus",
+    "name": "Urano",
+    "symbol": "♅",
+    "element_id": "elem-air",
+    "quality_id": "qual-fixed",
+    "polarity_id": "pol-yang",
+    "luminary": false,
+    "description": "Inovação, originalidade, liberdade, mudanças súbitas e tecnologia. Representa revolução.",
+    "image_url": "https://images.unsplash.com/photo-1614732767058-6bd97e1c4590?w=400",
+    "distance_from_sun": 19.19
+  },
+  {
+    "id": "planet-neptune",
+    "name": "Netuno",
+    "symbol": "♆",
+    "element_id": "elem-water",
+    "quality_id": "qual-mutable",
+    "polarity_id": "pol-yin",
+    "luminary": false,
+    "description": "Espiritualidade, intuição, imaginação, ilusão e compaixão. Representa o transcendental.",
+    "image_url": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=400",
+    "distance_from_sun": 30.07
+  },
+  {
+    "id": "planet-pluto",
+    "name": "Plutão",
+    "symbol": "♇",
+    "element_id": "elem-water",
+    "quality_id": "qual-cardinal",
+    "polarity_id": "pol-yin",
+    "luminary": false,
+    "description": "Transformação profunda, poder, regeneração e renovação. Representa o inconsciente.",
+    "image_url": "https://images.unsplash.com/photo-1614732118584-fa8b5eaa3bf0?w=400",
+    "distance_from_sun": 39.48
+  }
+]

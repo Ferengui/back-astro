@@ -1,0 +1,17 @@
+[
+  {
+    "id": "qual-cardinal",
+    "name": "Cardinal",
+    "description": "Qualidade de iniciativa, liderança e ação. Marca o início das estações."
+  },
+  {
+    "id": "qual-fixed",
+    "name": "Fixa",
+    "description": "Qualidade de estabilidade, persistência e determinação. Marca o meio das estações."
+  },
+  {
+    "id": "qual-mutable",
+    "name": "Mutável",
+    "description": "Qualidade de adaptabilidade, flexibilidade e transformação. Marca o fim das estações."
+  }
+]

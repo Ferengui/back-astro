@@ -1,0 +1,134 @@
+[
+  {
+    "id": "sign-aries",
+    "name": "Áries",
+    "symbol": "♈",
+    "element_id": "elem-fire",
+    "quality_id": "qual-cardinal",
+    "polarity_id": "pol-yang",
+    "ruling_planet_id": "planet-mars",
+    "description": "Pioneiro, corajoso, impulsivo e líder nato. Inicia projetos com energia e paixão.",
+    "date_range": "21/03 - 19/04"
+  },
+  {
+    "id": "sign-taurus",
+    "name": "Touro",
+    "symbol": "♉",
+    "element_id": "elem-earth",
+    "quality_id": "qual-fixed",
+    "polarity_id": "pol-yin",
+    "ruling_planet_id": "planet-venus",
+    "description": "Estável, sensual, determinado e prático. Valoriza conforto, segurança e beleza.",
+    "date_range": "20/04 - 20/05"
+  },
+  {
+    "id": "sign-gemini",
+    "name": "Gêmeos",
+    "symbol": "♊",
+    "element_id": "elem-air",
+    "quality_id": "qual-mutable",
+    "polarity_id": "pol-yang",
+    "ruling_planet_id": "planet-mercury",
+    "description": "Comunicativo, versátil, curioso e adaptável. Aprecia variedade e troca de ideias.",
+    "date_range": "21/05 - 20/06"
+  },
+  {
+    "id": "sign-cancer",
+    "name": "Câncer",
+    "symbol": "♋",
+    "element_id": "elem-water",
+    "quality_id": "qual-cardinal",
+    "polarity_id": "pol-yin",
+    "ruling_planet_id": "planet-moon",
+    "description": "Emocional, protetor, intuitivo e acolhedor. Valoriza família, lar e segurança emocional.",
+    "date_range": "21/06 - 22/07"
+  },
+  {
+    "id": "sign-leo",
+    "name": "Leão",
+    "symbol": "♌",
+    "element_id": "elem-fire",
+    "quality_id": "qual-fixed",
+    "polarity_id": "pol-yang",
+    "ruling_planet_id": "planet-sun",
+    "description": "Criativo, generoso, dramático e carismático. Busca reconhecimento e expressão autêntica.",
+    "date_range": "23/07 - 22/08"
+  },
+  {
+    "id": "sign-virgo",
+    "name": "Virgem",
+    "symbol": "♍",
+    "element_id": "elem-earth",
+    "quality_id": "qual-mutable",
+    "polarity_id": "pol-yin",
+    "ruling_planet_id": "planet-mercury",
+    "description": "Analítico, perfeccionista, prestativo e meticuloso. Busca eficiência e perfeição.",
+    "date_range": "23/08 - 22/09"
+  },
+  {
+    "id": "sign-libra",
+    "name": "Libra",
+    "symbol": "♎",
+    "element_id": "elem-air",
+    "quality_id": "qual-cardinal",
+    "polarity_id": "pol-yang",
+    "ruling_planet_id": "planet-venus",
+    "description": "Equilibrado, diplomático, charmoso e justo. Valoriza harmonia, beleza e relacionamentos.",
+    "date_range": "23/09 - 22/10"
+  },
+  {
+    "id": "sign-scorpio",
+    "name": "Escorpião",
+    "symbol": "♏",
+    "element_id": "elem-water",
+    "quality_id": "qual-fixed",
+    "polarity_id": "pol-yin",
+    "ruling_planet_id": "planet-pluto",
+    "description": "Intenso, transformador, investigativo e magnético. Busca profundidade e verdade.",
+    "date_range": "23/10 - 21/11"
+  },
+  {
+    "id": "sign-sagittarius",
+    "name": "Sagitário",
+    "symbol": "♐",
+    "element_id": "elem-fire",
+    "quality_id": "qual-mutable",
+    "polarity_id": "pol-yang",
+    "ruling_planet_id": "planet-jupiter",
+    "description": "Aventureiro, otimista, filosófico e independente. Busca expansão e significado.",
+    "date_range": "22/11 - 21/12"
+  },
+  {
+    "id": "sign-capricorn",
+    "name": "Capricórnio",
+    "symbol": "♑",
+    "element_id": "elem-earth",
+    "quality_id": "qual-cardinal",
+    "polarity_id": "pol-yin",
+    "ruling_planet_id": "planet-saturn",
+    "description": "Ambicioso, disciplinado, responsável e persistente. Valoriza conquistas e estrutura.",
+    "date_range": "22/12 - 19/01"
+  },
+  {
+    "id": "sign-aquarius",
+    "name": "Aquário",
+    "symbol": "♒",
+    "element_id": "elem-air",
+    "quality_id": "qual-fixed",
+    "polarity_id": "pol-yang",
+    "ruling_planet_id": "planet-uranus",
+    "description": "Inovador, humanitário, independente e original. Valoriza liberdade e progresso.",
+    "date_range": "20/01 - 18/02"
+  },
+  {
+    "id": "sign-pisces",
+    "name": "Peixes",
+    "symbol": "♓",
+    "element_id": "elem-water",
+    "quality_id": "qual-mutable",
+    "polarity_id": "pol-yin",
+    "ruling_planet_id": "planet-neptune",
+    "description": "Compassivo, intuitivo, artístico e espiritual. Valoriza conexão emocional e transcendência.",
+    "date_range": "19/02 - 20/03"
+  }
+]

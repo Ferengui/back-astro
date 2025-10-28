@@ -1,0 +1,26 @@
+[
+  {
+    "id": "elem-fire",
+    "name": "Fogo",
+    "symbol": "🔥",
+    "description": "Elemento da ação, entusiasmo, criatividade e iniciativa. Representa energia vital e transformadora."
+  },
+  {
+    "id": "elem-earth",
+    "name": "Terra",
+    "symbol": "🌍",
+    "description": "Elemento da praticidade, materialização, estabilidade e segurança. Representa concretização e estrutura."
+  },
+  {
+    "id": "elem-air",
+    "name": "Ar",
+    "symbol": "💨",
+    "description": "Elemento da comunicação, pensamento, troca e sociabilidade. Representa intelecto e ideias."
+  },
+  {
+    "id": "elem-water",
+    "name": "Água",
+    "symbol": "💧",
+    "description": "Elemento da emoção, sensibilidade, intuição e empatia. Representa profundidade emocional."
+  }
+]

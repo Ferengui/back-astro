@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pol-yang",
+    "name": "Yang",
+    "symbol": "☀️",
+    "description": "Polaridade ativa, extrovertida e voltada para o mundo exterior. Energia expansiva."
+  },
+  {
+    "id": "pol-yin",
+    "name": "Yin",
+    "symbol": "🌙",
+    "description": "Polaridade receptiva, introvertida e voltada para o mundo interior. Energia introspectiva."
+  }
+]

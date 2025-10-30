@@ -1,0 +1,81 @@
+# ================================================
+# ⚙️ GITIGNORE - ASTROMEAN BACKEND (FastAPI + Python)
+# ================================================
+
+# 🚫 Ambientes e dependências
+venv/
+.env
+.env.*
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pid
+*.seed
+
+# 🚫 Cache, build e pacotes temporários
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+*.bak
+*.tmp
+*.swp
+*.swo
+.cache/
+.mypy_cache/
+.pytest_cache/
+coverage/
+htmlcov/
+.tox/
+.pyre/
+
+# 🚫 Configurações e chaves sensíveis
+*.key
+*.pem
+*.crt
+*.cert
+secrets.json
+config.json
+credentials.json
+private_settings.py
+
+# 🚫 IDEs e editores
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# 🚫 Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 🚫 Docker e containers
+docker-compose.override.yml
+*.dockerfile
+*.tar
+*.img
+
+# 🚫 Node e frontend (caso frontend esteja junto)
+node_modules/
+package-lock.json
+
+# 🚫 Testes e relatórios
+*.coverage
+test-results/
+tests/__pycache__/
+
+# 🚫 Arquivos do Git local que podem conflitar
+.git/
+.gitmodules
+*.orig
+
+# ================================================
+# ✅ SEGURO PARA PUBLICAÇÃO NO GITHUB
+# ================================================
